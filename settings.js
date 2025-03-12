@@ -12,25 +12,25 @@ const chalk = require('chalk');
 const { version } = require("./package.json")
 
 //~~~~~~~~~~~ Settings Bot ~~~~~~~~~~~//
-global.owner = '6289506997661'
+global.owner = '6283853787611'
 global.versi = version
-global.namaOwner = "xyzhiraa"
+global.namaOwner = "𝒁𝒚𝒎𝒛𝒛"
 global.packname = 'Bot WhatsApp'
-global.botname = 'hirabotz'
-global.botname2 = 'hirabotz'
+global.botname = '𝘽𝙤𝙩𝙕'
+global.botname2 = '𝘽𝙤𝙩𝙕'
 
 //~~~~~~~~~~~ Settings Link ~~~~~~~~~~//
-global.linkOwner = "https://wa.me/6289506997661"
-global.linkGrup = "https://chat.whatsapp.com/KM6AHNSG8J17HBFuqRG96T"
+global.linkOwner = "https://wa.me/6283853787611"
+global.linkGrup = "https://chat.whatsapp.com/Jv5SIEQV3jNGpIvWy2lmSC"
 
 //~~~~~~~~~~~ Settings Jeda ~~~~~~~~~~//
 global.delayJpm = 1500
 global.delayPushkontak = 6000
 
 //~~~~~~~~~~ Settings Saluran ~~~~~~~~~//
-global.linkSaluran = "https://whatsapp.com/channel/0029VaoNzzlJJhzQTJBL5n0F"
-global.idSaluran = "120363335989645846@newsletter"
-global.namaSaluran = "hirabotz [ xyzhiraa ]"
+global.linkSaluran = "https://whatsapp.com/channel/0029VakakCcLI8YV5UInP61u"
+global.idSaluran = "120363300298271061@newsletter"
+global.namaSaluran = "ZymzZZ"
 
 //~~~~~~~~~ Settings Orderkuota ~~~~~~~~//
 global.merchantIdOrderKuota = "OK2000300"
@@ -43,9 +43,9 @@ global.apiDigitalOcean = ""
 global.apiSimpleBot = "simplebotz85"
 
 //~~~~~~~~~ Settings Payment ~~~~~~~~~//
-global.dana = "085692195658"
-global.ovo = "Tidak Tersedia"
-global.gopay = "085692195658"
+global.dana = "6283853787611"
+global.ovo = "6283853787611"
+global.gopay = "6283853787611"
 
 //~~~~~~~~~~ Settings Image ~~~~~~~~~~//
 global.image = {
